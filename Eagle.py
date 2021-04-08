@@ -203,7 +203,7 @@ def menu():
 
     os.system('clear')
     print logo
-    print '\x1b[37;1m> Name \x1b[1;91m: \x1b[31;1m' + name + '\x1b[1;97m                  '
+    print '\x1b[37;1m> Name \x1b[1;91m: \x1b[31;1m' + nama + '\x1b[1;97m                  '
     print '\x1b[37;1m> ID   \x1b[1;91m: \x1b[31;1m' + id + '\x1b[1;97m              '
     print '\n\x1b[1;91m> 1.\x1b[0m Start Crack....'
     print '\n\x1b[1;93m> 0.\x1b[0m Logout.....            '
