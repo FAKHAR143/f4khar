@@ -405,7 +405,7 @@ def pilih_super():
     p = ThreadPool(30)
     p.map(main, id)
     print 25 * '-'
-    print '\x1b[1;92m[CLONING DONE !'
+    print '\x1b[1;92m[CLONING DONE ! Happy'
     print '\x1b[1;92m[CLONE : ' + str(len(oks))
     print '\x1b[1;92m[WAIT: ' + str(len(cekpoint))
     print '\x1b[1;92m[File save ~> save/hack.txt'
